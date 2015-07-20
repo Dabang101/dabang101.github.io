@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
+html {
+   text-align:center;
+   background-image: url("http://static1.squarespace.com/static/54c05263e4b082105475822a/54c946d5e4b040b062edb5a9/54d533a1e4b075f2f302ea83/1423258531318/interior-astonishing-basketball-court-wallpaper-for-rooms-with-red-plastic-basket-ring-also-blue-glass-basket-case-for-boys-bedroom-decor-sporty-basketball-court-wal.jpg?format=2500w");
+   background-repeat: no-repeat;
+   color: green;
+   font-family: "Bree Serif";
+     }
+img {
+  float: right;
+}
+div {
+  display: inline-block;
+}
